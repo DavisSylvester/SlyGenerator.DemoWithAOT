@@ -1,0 +1,43 @@
+{
+    "extends": "./tsconfig",
+    "compilerOptions": {
+        "outDir": "../../../dist",
+        "rootDir": "./",
+        "target": "es6",
+        "module": "system",
+        
+        "sourceMap": true,
+        "declaration": false,
+        "strictPropertyInitialization": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "strictNullChecks": false,
+        "allowUnusedLabels": false,
+        "noImplicitReturns": false
+                
+        
+    },
+
+    "angularCompilerOptions": {
+        "fullTemplateTypeCheck": true,
+        "preserveWhitespaces": true,
+        "enableResourceInlining": true,
+        "genDir": "dist",        
+        "debug": false,
+        "skipMetadataEmit": true,
+        "skipTemplateCodegen": false,       
+        "strictMetadataEmit": true,
+        "annotationsAs": "decorators",
+        
+      },
+
+      "exclude": [
+            "./Core/Main.ts",
+           
+           
+            
+        ],
+      
+
+
+}

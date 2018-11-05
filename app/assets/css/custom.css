@@ -1,0 +1,76 @@
+body {
+  width: 100vw;
+  max-width: 100%;
+  height: 100vh;
+  max-height: 100%;
+  border: 2px solid red;
+}
+header {
+  width: 100%;
+  height: 55px !important;
+  max-height: 55px !important;
+  min-height: 55px !important;
+  margin: auto 0;
+}
+.spanHeaderText {
+  font-family: "Oswald" !important;
+  font-weight: 500  !important;
+  font-size: 1.3em  !important;
+  margin-right: 10px !important;
+  display: inline-block !important;
+}
+.spanFirstLetter {
+  font-family: "Oswald" !important;
+  font-weight: bold  !important;
+  font-size: 1.6em  !important;
+  color: navy  !important;
+  border: none !important;
+}
+span.vital {
+  font-family: "Oswald" !important;
+  font-weight: 500  !important;
+  font-size: 1.3em  !important;
+  margin-right: 10px !important;
+  display: inline-block !important;
+}
+span.vital::first-letter {
+  font-family: "Oswald" !important;
+  font-weight: bold  !important;
+  font-size: 1.6em  !important;
+  color: navy  !important;
+  border: none !important;
+}
+span.collaboration {
+  font-family: "Oswald" !important;
+  font-weight: 500  !important;
+  font-size: 1.3em  !important;
+  margin-right: 10px !important;
+  display: inline-block !important;
+}
+span.collaboration::first-letter {
+  font-family: "Oswald" !important;
+  font-weight: bold  !important;
+  font-size: 1.6em  !important;
+  color: navy  !important;
+  border: none !important;
+}
+span.vcgroup {
+  font-family: "Oswald" !important;
+  font-weight: 500  !important;
+  font-size: 1.3em  !important;
+  margin-right: 10px !important;
+  display: inline-block !important;
+}
+span.vcgroup::first-letter {
+  font-family: "Oswald" !important;
+  font-weight: bold  !important;
+  font-size: 1.6em  !important;
+  color: navy  !important;
+  border: none !important;
+}
+nav {
+  background: #CDCDCD;
+}
+/*# sourceMappingURL=custom.css.map */
+
+/*# sourceMappingURL=custom.css.map */
