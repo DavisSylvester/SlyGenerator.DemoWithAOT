@@ -35,9 +35,9 @@ System.register(["@angular/core", "@angular/router"], function (exports_1, conte
                 core_1.Component({
                     selector: "main-app",
                     moduleId: __moduleName,
-                    template: "<div style=\"display: flex; flex-direction: column; flex-grow: 1; width: 100%;\">\r\n    \r\n    <h3 style=\"margin-left: 10px;margin-top: 10px;\">{{ Title }}</h3>\r\n</div>\r\n\r\n<router-outlet>\r\n\r\n</router-outlet>",
-                    providers: [router_1.RouterModule],
-                    styles: [":host {\n  width: 100vw;\n  max-width: 100%;\n  min-height: 100vh;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: vertical;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: column;\n          flex-direction: column;\n  margin: 0;\n}\n\n/*# sourceMappingURL=styles.css.map */\n"]
+                    templateUrl: "../html/index.html",
+                    styleUrls: ["../html/styles.css"],
+                    providers: [router_1.RouterModule]
                 }),
                 __metadata("design:paramtypes", [])
             ], MainComponent);

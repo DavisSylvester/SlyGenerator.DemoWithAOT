@@ -27,7 +27,8 @@ System.register(["@angular/core"], function (exports_1, context_1) {
             NotFound = __decorate([
                 core_1.Component({
                     moduleId: __moduleName,
-                    template: "<h1> Not Found</h1>"
+                    templateUrl: "../html/notFound.html",
+                    styleUrls: [],
                 }),
                 __metadata("design:paramtypes", [])
             ], NotFound);
