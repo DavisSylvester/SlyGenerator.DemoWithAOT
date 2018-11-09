@@ -2,7 +2,7 @@ import { Component, OnInit } from "@angular/core";
 
 @Component({
     
-    moduleId: __moduleName,
+   
     templateUrl: "../html/notFound.html",
     styleUrls: [ ],
 })

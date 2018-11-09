@@ -1,13 +1,13 @@
 import { Component, OnInit, AfterViewInit } from "@angular/core";
-import { RouterModule } from "@angular/router";
+
 
 
 @Component({
-    selector: "main-app",
-    moduleId: __moduleName,
-    templateUrl: "../html/index.html",
-    styleUrls: ["../html/styles.css"],
-    providers: [RouterModule]
+    selector: "main-app",    
+    template: require("../html/index.html"),
+    styles: [require("../html/styles.css")],
+    
+    providers: []
 })
 
 

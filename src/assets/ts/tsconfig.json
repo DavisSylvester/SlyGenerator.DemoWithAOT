@@ -6,7 +6,7 @@
         "alwaysStrict": true,
         "strictNullChecks": true,        
         "declaration": true,
-        "module": "system",
+        "module": "commonjs",
         "moduleResolution": "node",
         "sourceMap": true,
         "emitDecoratorMetadata": true,
@@ -30,6 +30,7 @@
         "sourceRoot": "/ts/",
     },
     "exclude": [
-        "../../../node_modules"
+        "../../../node_modules",
+        "./Core/Main.aot.ts"
     ]
 }
