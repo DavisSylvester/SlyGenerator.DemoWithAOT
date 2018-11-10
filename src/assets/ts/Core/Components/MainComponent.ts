@@ -2,11 +2,12 @@ import { Component, OnInit, AfterViewInit } from "@angular/core";
 
 
 
+
 @Component({
-    selector: "main-app",    
-    template: require("../html/index.html"),
-    styles: [require("../html/styles.css")],
-    
+    selector: "main-app",
+    moduleId: module.id,    
+    templateUrl: "../html/index.html",
+    styles: [ "../html/styles.css"],    
     providers: []
 })
 

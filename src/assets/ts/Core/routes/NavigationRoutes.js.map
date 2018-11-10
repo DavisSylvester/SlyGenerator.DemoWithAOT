@@ -1,0 +1,1 @@
+{"version":3,"file":"NavigationRoutes.js","sourceRoot":"/ts/","sources":["Core/routes/NavigationRoutes.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,QAAQ,EAAE,MAAM,qBAAqB,CAAC;AAK/C,MAAM,CAAC,MAAM,gBAAgB,GAAW;IACpC,EAAE,IAAI,EAAE,EAAE,EAAE,UAAU,EAAE,GAAG,EAAE,SAAS,EAAE,MAAM,EAAE;IAChD,EAAE,IAAI,EAAE,KAAK,EAAE,SAAS,EAAE,QAAQ,EAAE;CAGvC,CAAC"}

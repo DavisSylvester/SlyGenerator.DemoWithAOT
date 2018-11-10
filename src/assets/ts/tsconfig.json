@@ -25,9 +25,10 @@
         "noUnusedLocals": true,
         "noUnusedParameters": true,        
         "lib": ["es5", "es6", "dom"],
-        "outDir": "../../../app/assets/js",
+        // "outDir": "../../../app/assets/js",
         "rootDir": "./",
         "sourceRoot": "/ts/",
+        "baseUrl": "./"
     },
     "exclude": [
         "../../../node_modules",

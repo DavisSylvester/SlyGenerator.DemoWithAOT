@@ -1,0 +1,6 @@
+import "core-js/es7/reflect";
+import "zone.js/dist/zone";
+import "rxjs";
+export class Libs {
+}
+//# sourceMappingURL=libs.js.map

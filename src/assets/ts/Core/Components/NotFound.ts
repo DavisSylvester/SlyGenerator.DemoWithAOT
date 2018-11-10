@@ -1,8 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 
-@Component({
-    
-   
+@Component({    
+    moduleId: module.id,  
     templateUrl: "../html/notFound.html",
     styleUrls: [ ],
 })
