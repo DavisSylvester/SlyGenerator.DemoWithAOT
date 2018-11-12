@@ -9,6 +9,7 @@ module.exports = {
     entry: {
       main: './Core/Main.ts',
       polyfills: "./Core/libs.ts",
+      authenication: "./Authenication/index.ts"
     },
     output: {
         path: path.resolve(__dirname, 'app/assets/js/'),

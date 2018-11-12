@@ -24,7 +24,7 @@
         "noFallthroughCasesInSwitch": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,        
-        "lib": ["es5", "es6", "dom"]        
+        "lib": ["es7", "dom"]        
         
     },
     "exclude": [

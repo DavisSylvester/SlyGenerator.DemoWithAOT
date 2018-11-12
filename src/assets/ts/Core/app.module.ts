@@ -6,7 +6,7 @@ import { HttpModule } from "@angular/http";
 import { HttpClientModule } from "@angular/common/http";
 import { MainComponent, NotFound }   from "./Components/index";
 import { routing } from "./routes/app.routes";
-
+import { AuthenicationModule } from "../Authenication/index";
 
 
 
@@ -20,7 +20,7 @@ import { routing } from "./routes/app.routes";
     routing,
     HttpModule,
     HttpClientModule,
-    
+    AuthenicationModule
     
      ],
   declarations: [
