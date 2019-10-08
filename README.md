@@ -4,7 +4,7 @@ Everything works as expected pre-AOT. When i run ngc to compile my angular appli
 
 My configuration is as follows:
 
-Node v.10.10.0
+Node v.12.0.0
 Angular v.6.1.2
 Typescript v.3.1.1
 SystemJS v 0.21.4
