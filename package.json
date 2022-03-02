@@ -65,7 +65,7 @@
     "imagemin-pngquant": "^5.1.0",
     "jasmine": "^3.1.0",
     "jasmine-core": "^3.1.0",
-    "karma": "^2.0.2",
+    "karma": "^6.3.16",
     "rename": "^1.0.4",
     "tslint": "^5.9.1",
     "typescript": "^2.8.3",
